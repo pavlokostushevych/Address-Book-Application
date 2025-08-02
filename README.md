@@ -17,7 +17,13 @@ This project was developed during an **8-day Agile sprint** simulating a real-wo
   I prepared the [`setuptools`](https://setuptools.pypa.io/en/latest/) configuration and created CLI/GUI `entry_points` for convenient launching.
 
 ---
+## Team Repository & My Contributions
 
+The full team project repository is maintained by the Team Lead and can be found here: [Team Repository](https://github.com/Kunandiir/goit_project)  
+(My Student GitHub nickname: [rynikk21](https://github.com/rynikk21))  
+
+You can track my individual commits and contributions in this team repository under my Student GitHub account.
+---
 ## 🚀 Features
 
 - 📇 Contact Book with search, add, remove, and edit
