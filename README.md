@@ -26,18 +26,53 @@ The full team project repository is maintained by the Team Lead and can be found
 You can track my individual commits and contributions within this team repository using my GitHub nickname.
 
 ---
-## 🚀 Features
+## Getting Started
 
-- 📇 Contact Book with search, add, remove, and edit
-- 📝 Notes module with tags, sorting, and deletion
-- ✅ To-Do task list with status tracking
-- 📆 Built-in date and calendar utilities
-- ⌨️ Command-line autocomplete via [`prompt_toolkit`](https://github.com/prompt-toolkit/python-prompt-toolkit)
-- 🎨 Terminal formatting with [`rich`](https://github.com/Textualize/rich)
-- 🪟 Graphical UI with [`customtkinter`](https://github.com/TomSchimansky/CustomTkinter)
-- 📦 Fully installable with CLI and GUI entry points
+### Download & Install
 
----
+1. **Download the project:**
 
-## 📁 Project Structure
+   Clone or download the `goit_project` folder to your local machine.
+
+2. **Navigate to the project folder:**
+
+   Open your terminal (Command Prompt, PowerShell, or Bash) and change directory to the folder containing `setup.py`:
+
+   ```bash
+   cd path/to/goit_project
+   
+3. **Install the project with dependencies:**
+
+Run the following command to install the package and its dependencies:
+
+pip install .
+
+### Requirements
+
+- **Python version:** This project was developed and tested with **Python 3.11**. Versions 3.8 and above should work, but 3.11 is recommended for best compatibility.
+- The following Python packages will be installed automatically:
+  - `customtkinter`
+  - `prompt_toolkit`
+  - `rich`
+
+
+Environment Variables
+Make sure the Python scripts' install location is added to your system's PATH environment variable so you can run the commands globally from any terminal.
+
+On Windows, the scripts are typically installed to:
+
+%LOCALAPPDATA%\Packages\PythonSoftwareFoundation.Python.<version>_qbz5n2kfra8p0\LocalCache\local-packages\Python<version>\Scripts
+
+Add this folder to your PATH environment variable if it’s not already there.
+
+Running the Program
+After installation, you can launch the program via terminal using the provided commands:
+
+To run the GUI version:
+
+start_project
+
+To run the Console (CLI) version:
+
+start_project_console
 
