@@ -12,9 +12,10 @@ The project manages contacts, notes, and to-do lists via a modular architecture 
 This project was developed during an **8-day Agile sprint** simulating a real-world software development environment. The student team followed professional workflows, including Scrum roles and regular collaboration with a technical mentor.
 
 - **My role**:  
-  I contributed to core features in `main.py`, modular logic in `notes.py`, and helped improve the UX of the CLI version.  
-  I also worked on integration, debugging, and cleanup of `gui.py`.  
-  I prepared the [`setuptools`](https://setuptools.pypa.io/en/latest/) configuration and created CLI/GUI `entry_points` for convenient launching.
+  I chose the Scrum Master role, focusing on communication, organizing meetings, task management, and Trello usage.  
+  Additionally, I contributed to core features in `main.py` and helped improve the UX of the CLI version.  
+  I also worked on bugfixes after integrating the GUI (`gui.py`), which was written by the Team Lead.  
+  In my repository, you can find the reworked `setuptools` configuration and newly created CLI/GUI entry points for convenient launching.
 
 ---
 ## Team Repository & My Contributions
