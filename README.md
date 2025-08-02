@@ -15,7 +15,7 @@ This project was developed during an **8-day Agile sprint** simulating a real-wo
   I chose the Scrum Master role, focusing on communication, organizing meetings, task management, and Trello usage.  
   Additionally, I contributed to core features in `main.py` and helped improve the UX of the CLI version.  
   I also worked on bugfixes after integrating the GUI (`gui.py`), which was written by the Team Lead.  
-  In my repository, you can find the reworked `setuptools` configuration and newly created CLI/GUI entry points for convenient launching.
+  In my repository, you can find the reworked `setup.py` configuration and newly created CLI/GUI entry points for convenient launching.
 
 ---
 ## Team Repository & My Contributions
