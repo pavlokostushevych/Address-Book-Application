@@ -63,7 +63,7 @@ Make sure the Python scripts' install location is added to your system's PATH en
 On Windows, the scripts are typically installed to:
 
 ```bash
-%LOCALAPPDATA%\Packages\PythonSoftwareFoundation.Python.<version>_qbz5n2kfra8p0\LocalCache\local-packages\Python<version>\Scripts.
+%LOCALAPPDATA%\Packages\PythonSoftwareFoundation.Python.<version>_qbz5n2kfra8p0\LocalCache\local-packages\Python<version>\Scripts
 ```
 
 Add this folder to your PATH environment variable if it’s not already there.
