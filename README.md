@@ -72,10 +72,10 @@ Running the Program
 After installation, you can launch the program via terminal using the provided commands:
 
 To run the GUI version:
-
+```bash
 start_project
-
+```
 To run the Console (CLI) version:
-
+```bash
 start_project_console
-
+```
