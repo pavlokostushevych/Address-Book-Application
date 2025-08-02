@@ -26,7 +26,7 @@ The full team project repository is maintained by the Team Lead and can be found
 You can track my individual commits and contributions within this team repository using my GitHub nickname.
 
 ---
-## Getting Started
+## Getting Started (Windows)
 
 ### Download & Install
 
