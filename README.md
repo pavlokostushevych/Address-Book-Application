@@ -1,41 +1,35 @@
-🧠 Personal Assistant (Team Project)
-A console and GUI-based Personal Assistant app built in Python using prompt_toolkit, rich, and customtkinter. The project manages contacts, notes, and to-do lists via a modular architecture and offers both terminal and graphical user interfaces.
+# 🧠 Personal Assistant (Team Project)
 
-📦 Installable via setuptools, with entry points for launching either version.
+A console and GUI-based Personal Assistant app built in Python using [`prompt_toolkit`](https://github.com/prompt-toolkit/python-prompt-toolkit), [`rich`](https://github.com/Textualize/rich), and [`customtkinter`](https://github.com/TomSchimansky/CustomTkinter).  
+The project manages contacts, notes, and to-do lists via a modular architecture and offers both terminal and graphical user interfaces.
 
-💡 Project Overview
-This project was developed as part of an 8-day sprint simulating a real-world software development workflow. It was designed and implemented by a student team using Agile methodology and professional development tools. Each team member had a defined role, contributing to a realistic collaborative environment.
+📦 Installable via [`setuptools`](https://setuptools.pypa.io/en/latest/), with entry points for launching either version.
 
-My role: I actively contributed to the core application logic (main.py) and the modular system (notes.py, address_book.py, etc.). I worked on implementation, feature integration, code cleanup, bugfixes, and improved the command-line user experience.
+---
 
-I also helped debug and integrate the GUI, although I did not write it from scratch.
+## 💡 Project Overview
 
-I prepared the setuptools installer and configured both GUI and CLI entry points for easy launching after installation.
+This project was developed during an **8-day Agile sprint** simulating a real-world software development environment. The student team followed professional workflows, including Scrum roles and regular collaboration with a technical mentor.
 
-🚀 Features
-📇 Contact Book with search, add, remove, edit
+- **My role**:  
+  I contributed to core features in `main.py`, modular logic in `notes.py`, and helped improve the UX of the CLI version.  
+  I also worked on integration, debugging, and cleanup of `gui.py`.  
+  I prepared the [`setuptools`](https://setuptools.pypa.io/en/latest/) configuration and created CLI/GUI `entry_points` for convenient launching.
 
-📝 Notes Module with tags, edit/view/delete options
+---
 
-✅ Task List (To-do)
+## 🚀 Features
 
-📆 Date and calendar utilities
+- 📇 Contact Book with search, add, remove, and edit
+- 📝 Notes module with tags, sorting, and deletion
+- ✅ To-Do task list with status tracking
+- 📆 Built-in date and calendar utilities
+- ⌨️ Command-line autocomplete via [`prompt_toolkit`](https://github.com/prompt-toolkit/python-prompt-toolkit)
+- 🎨 Terminal formatting with [`rich`](https://github.com/Textualize/rich)
+- 🪟 Graphical UI with [`customtkinter`](https://github.com/TomSchimansky/CustomTkinter)
+- 📦 Fully installable with CLI and GUI entry points
 
-🧭 Command-line autocomplete with prompt_toolkit
+---
 
-🎨 Formatted terminal output using rich
+## 📁 Project Structure
 
-🪟 Graphical user interface with customtkinter
-
-📦 Fully installable Python package with CLI and GUI entry points
-
-🛠 Technologies
-Python 3.11+
-
-prompt_toolkit
-
-rich
-
-customtkinter
-
-setuptools
