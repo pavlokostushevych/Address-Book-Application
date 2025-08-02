@@ -43,13 +43,14 @@ You can track my individual commits and contributions within this team repositor
    
 3. **Install the project with dependencies:**
 
-Run the following command to install the package and its dependencies:
+    Run the following command to install the package and its dependencies:
 
-pip install .
+   ```bash
+   pip install .
 
 ### Requirements
 
-- **Python version:** This project was developed and tested with **Python 3.11**. Versions 3.8 and above should work, but 3.11 is recommended for best compatibility.
+- **Python version:** This project was developed and tested with **Python 3.11**. Versions 3.8 and above should work.
 - The following Python packages will be installed automatically:
   - `customtkinter`
   - `prompt_toolkit`
@@ -61,7 +62,9 @@ Make sure the Python scripts' install location is added to your system's PATH en
 
 On Windows, the scripts are typically installed to:
 
-%LOCALAPPDATA%\Packages\PythonSoftwareFoundation.Python.<version>_qbz5n2kfra8p0\LocalCache\local-packages\Python<version>\Scripts
+```
+%LOCALAPPDATA%\Packages\PythonSoftwareFoundation.Python.<version>_qbz5n2kfra8p0\LocalCache\local-packages\Python<version>\Scripts.
+```
 
 Add this folder to your PATH environment variable if it’s not already there.
 
