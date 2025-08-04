@@ -269,10 +269,11 @@ Aby szybko zrozumieć, jak działa aplikacja, sprawdź:
 [`photos/`](./photos) — zawiera zrzuty ekranu GUI i interfejsu CLI oraz widok zarządzania projektem na tablicy Trello, ilustrujący sposób organizacji i śledzenia zadań   
 [`goit_project/`](./goit_project) — możesz zapoznać się z kodem źródłowym aplikacji  
 
-💻 Wypróbuj samodzielnie
-Jeśli chcesz bezpośrednio przetestować aplikację:
+💻 Wypróbuj samodzielnie        
+Jeśli chcesz bezpośrednio przetestować aplikację:   
 
-Przejdź do sekcji Rozpoczęcie pracy (Windows)
+Przejdź do sekcji Rozpoczęcie pracy (Windows)      
+
 Postępuj zgodnie z instrukcjami instalacji, aby uruchomić aplikację na swoim systemie
 
 ---
