@@ -62,9 +62,9 @@ We used:
 
 My role:
 I chose the Scrum Master role, focusing on communication, organizing meetings, task tracking, and ensuring smooth collaboration.
-Additionally, I contributed to core features in main.py.
-I also worked on bugfixes after integrating the GUI (gui.py), which was developed by the Team Lead.
-In my repository, you’ll find a reworked setup.py and newly added entry_points to easily launch either the GUI or console version.
+Additionally, I contributed to core features in [main.py](goit_project/goit_project/main.py).
+I also worked on bugfixes after integrating the GUI ([gui.py](goit_project/goit_project/gui.py)), which was developed by the Team Lead.
+In my repository, you’ll find a reworked [setup.py](goit_project/setup.py) and newly added entry_points to easily launch either the GUI or console version.
 
 ---
 ## Team Repository & My Contributions
@@ -232,109 +232,108 @@ Wykorzystaliśmy:
 
 Moja rola:
 Wybrałem rolę Scrum Mastera — odpowiadałem za komunikację, organizację spotkań, śledzenie zadań i zapewnienie płynnej współpracy.
-Dodatkowo, współtworzyłem funkcje główne w pliku main.py.
-Zajmowałem się również poprawkami błędów po integracji GUI (gui.py), stworzonego przez lidera zespołu.
-W moim repozytorium znajdziesz przeprojektowany setup.py oraz nowe entry_points, umożliwiające łatwe uruchamianie wersji GUI lub konsolowej.
+Dodatkowo, współtworzyłem funkcje główne w pliku [main.py](goit_project/goit_project/main.py).
+Zajmowałem się również poprawkami błędów po integracji GUI ([gui.py](goit_project/goit_project/gui.py)), stworzonego przez lidera zespołu.
+W moim repozytorium znajdziesz przeprojektowany [setup.py](goit_project/setup.py) oraz nowe entry_points, umożliwiające łatwe uruchamianie wersji GUI lub konsolowej.
 
 
 
 ---
-## Team Repository & My Contributions
+## Repozytorium zespołu i mój wkład
 
-The full team project repository is maintained by the Team Lead and can be found here: [Team Repository](https://github.com/Kunandiir/goit_project)  
-(My Student GitHub nickname: [rynikk21](https://github.com/rynikk21))
+Pełne repozytorium zespołu prowadzone jest przez lidera i znajduje się tutaj: [Team Repository](https://github.com/Kunandiir/goit_project)  
+(Mój GitHubowy nick studencki: [rynikk21](https://github.com/rynikk21))
 
-You can track my individual commits and contributions within this team repository using my GitHub nickname.
-
----
-
-## 📂 Project Structure
-
-- [`goit_project/`](./goit_project) — main Python package with core modules:  
-  - [main.py](goit_project/goit_project/main.py) — program entry and core logic
-  - [notes.py](goit_project/goit_project/notes.py) — notes management module
-  - [gui.py](goit_project/goit_project/gui.py) — graphical user interface code
-  - [setup.py](goit_project/setup.py) — installation and packaging configuration
-
-- [`photos/`](./photos) — Photos documenting the project  
+Możesz śledzić moje indywidualne commity i wkład w tym repozytorium, korzystając z mojego nicku.
 
 ---
 
-## 🎥 Project Presentation & Possible Usage
-This repository showcases the design and development of a Personal Assistant application written in Python. You can explore the application in two ways:
+## 📂 Struktura projektu
 
-📸 Visual Preview
-To quickly get a sense of how the application works, check out:
+- [`goit_project/`](./goit_project) — główny pakiet Pythona z modułami:
+  - [main.py](goit_project/goit_project/main.py) — punkt wejścia i główna logika programu
+  - [notes.py](goit_project/goit_project/notes.py) — moduł zarządzania notatkami
+  - [gui.py](goit_project/goit_project/gui.py) — kod interfejsu graficznego
+  - [setup.py](goit_project/setup.py) — konfiguracja instalacji i pakietowania
 
-[`photos/`](./photos) — includes screenshots of the GUI and CLI interfaces of the assistant, project management in action on our Trello board — showing how we organized and tracked tasks during development.  
-[`goit_project/`](./goit_project) — you can review the source code of the application.
-
-💻 Try It Yourself
-If you want to interact with the assistant directly:
-
-Head down to the section ## Getting Started (Windows)
-
-Follow the installation steps to set up the application on your system
+- [`photos/`](./photos) — folder ze zrzutami ekranu dokumentującymi projekt
 
 ---
 
-## Getting Started (Windows)
+## 🎥 Prezentacja projektu i możliwe zastosowania
+To repozytorium prezentuje projektowanie i rozwój aplikacji „Personal Assistant” napisanej w Pythonie. Aplikację możesz poznać na dwa sposoby:
 
-### Download & Install
+📸 Podgląd wizualny
+Aby szybko zrozumieć, jak działa aplikacja, sprawdź:
 
-1. **Download the project:**
+[`photos/`](./photos) — zawiera zrzuty ekranu GUI i interfejsu CLI oraz widok zarządzania projektem na tablicy Trello, ilustrujący sposób organizacji i śledzenia zadań 
+[`goit_project/`](./goit_project) — możesz zapoznać się z kodem źródłowym aplikacji
 
-   Clone or download the `goit_project` folder to your local machine.
+💻 Wypróbuj samodzielnie
+Jeśli chcesz bezpośrednio przetestować aplikację:
 
-2. **Navigate to the project folder:**
+Przejdź do sekcji Rozpoczęcie pracy (Windows)
+Postępuj zgodnie z instrukcjami instalacji, aby uruchomić aplikację na swoim systemie
 
-   Open your terminal (Command Prompt, PowerShell, or Bash) and change directory to the folder containing `setup.py`:
+---
+
+## Rozpoczęcie pracy (Windows)
+
+### Pobierz i zainstaluj
+
+1. **Pobierz projekt:**
+
+   Sklonuj lub pobierz folder `goit_project` na swój komputer.
+
+2. **Przejdź do folderu projektu::**
+
+   Otwórz terminal (Command Prompt, PowerShell lub Bash) i przejdź do folderu zawierającego `setup.py`:
 
    ```bash
    cd path/to/goit_project
    
-3. **Install the project with dependencies:**
+3. **Zainstaluj projekt z zależnościami::**
 
-    Run the following command to install the package and its dependencies:
+    Uruchom poniższe polecenie, aby zainstalować pakiet i jego zależności:
 
    ```bash
    pip install .
 
-### Requirements
+### Wymagania
 
-- **Python version:** This project was developed and tested with **Python 3.11**. Versions 3.8 and above should work.
-- The following Python packages will be installed automatically:
+- **Wersja Pythona:** projekt został stworzony i przetestowany z Python 3.11. Powinien działać z wersją 3.8 lub wyższą.
+- Następujące pakiety Python zostaną zainstalowane automatycznie:
   - `customtkinter`
   - `prompt_toolkit`
   - `rich`
 
 
-Environment Variables
-Make sure the Python scripts' install location is added to your system's PATH environment variable so you can run the commands globally from any terminal.
+Zmienne środowiskowe
+Upewnij się, że lokalizacja instalacji skryptów Pythona została dodana do zmiennej środowiskowej PATH, abyś mógł uruchamiać komendy globalnie z dowolnego terminala.
 
-On Windows, the scripts are typically installed to:
+Na Windowsie skrypty są zazwyczaj instalowane w:
 
 ```bash
 %LOCALAPPDATA%\Packages\PythonSoftwareFoundation.Python.<version>_qbz5n2kfra8p0\LocalCache\local-packages\Python<version>\Scripts
 ```
 
-Add this folder to your PATH environment variable if it’s not already there.
+Dodaj ten folder do PATH, jeśli nie został tam automatycznie dodany.
 
-Running the Program
-After installation, you can launch the program via terminal using the provided commands:
+Uruchamianie programu
+Po instalacji możesz uruchomić program z poziomu terminala za pomocą poniższych komend:
 
-To run the GUI version:
+Aby uruchomić wersję GUI:
 ```bash
 start_project
 ```
-To run the Console version:
+Aby uruchomić wersję konsolową:
 ```bash
 start_project_console
 ```
 
-## 📬 Contact
+## 📬 Kontakt
 
-If you have any questions, feel free to reach out:  
+Jeśli masz pytania, napisz:
 
 - Email: pavlo.kostushevych@gmail.com  
 - LinkedIn: [linkedin.com/in/pavlo-kostushevych-ab364b376](https://www.linkedin.com/in/pavlo-kostushevych-ab364b376/)
