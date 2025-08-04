@@ -39,6 +39,44 @@ You can track my individual commits and contributions within this team repositor
 
 ---
 
+## 🧩 Implemented Features
+This Personal Assistant Python application includes the following features:
+
+👥 Contacts Book
+- 📇 Store contacts with:
+  - Name
+  - Address
+  - Phone number(s)
+  - Email(s)
+  - Birthday(s)
+
+- 🎂 Show contacts with birthdays coming up in a given number of days.
+- ✅ Input validation for phone numbers and emails (regex check).
+- 🔍 Search contacts by name or other fields.
+- ✏️ Edit existing contact records.
+- 🗑️ Delete contact records.
+
+📝 Notes Manager
+- 🧾 Create and store textual notes.
+- 🔍 Search notes by content.
+- ✏️ Edit notes.
+- 🗑️ Delete notes.
+- 🏷️ Add tags (keywords) to notes.
+- 🔎 Search and sort notes by tags.
+
+📂 Folder Sorting Tool
+- 🗃️ Sort files in a selected folder by category:
+  - Images
+  - Videos
+  - Documents
+  - Archives
+  - Others
+
+🤖 Smart Command Suggestion
+✨ Intelligent input analysis: the assistant can suggest the most relevant command based on user input (even if it's incorrect or incomplete).
+
+---
+
 ## Getting Started (Windows)
 
 ### Download & Install
