@@ -77,6 +77,25 @@ You can track my individual commits and contributions within this team repositor
 
 ---
 
+## 🎥 Project Presentation & Possible Usage
+This repository showcases the design and development of a Personal Assistant application written in Python. You can explore the application in two ways:
+
+📸 Visual Preview
+To quickly get a sense of how the application works, check out:
+
+[`photos/`](./photos) — includes screenshots of the GUI and CLI interfaces of the assistant.
+
+Project management in action on our Trello board — showing how we organized and tracked tasks during development.
+
+💻 Try It Yourself
+If you want to interact with the assistant directly:
+
+Head down to the section ## Getting Started (Windows)
+
+Follow the installation steps to set up the application on your system
+
+---
+
 ## Getting Started (Windows)
 
 ### Download & Install
