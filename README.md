@@ -333,7 +333,7 @@ start_project_console
 
 ## 📬 Kontakt
 
-Jeśli masz pytania, napisz:
+W razie pytań zapraszam do kontaktu:  
 
 - Email: pavlo.kostushevych@gmail.com  
 - LinkedIn: [linkedin.com/in/pavlo-kostushevych-ab364b376](https://www.linkedin.com/in/pavlo-kostushevych-ab364b376/)
