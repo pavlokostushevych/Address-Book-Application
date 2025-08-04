@@ -41,8 +41,10 @@ This Personal Assistant Python application includes the following features:
   - Others
 
 🤖 Smart Command Suggestion
-✨ Intelligent input analysis: the assistant can suggest the most relevant command based on user input (even if it's incorrect or incomplete).
+- ✨ Intelligent input analysis: the assistant can suggest the most relevant command based on user input (even if it's incorrect or incomplete).
 
+💾 Data Persistence
+- 📦 The program automatically saves data (contacts, notes) upon exit or even in case of a crash, ensuring no user input is lost.
 ---
 
 ## 💡 Project Overview
@@ -90,9 +92,8 @@ This repository showcases the design and development of a Personal Assistant app
 📸 Visual Preview
 To quickly get a sense of how the application works, check out:
 
-[`photos/`](./photos) — includes screenshots of the GUI and CLI interfaces of the assistant.
-
-Project management in action on our Trello board — showing how we organized and tracked tasks during development.
+[`photos/`](./photos) — includes screenshots of the GUI and CLI interfaces of the assistant, project management in action on our Trello board — showing how we organized and tracked tasks during development.
+[`goit_project/`](./goit_project) — you can review the source code of the application.
 
 💻 Try It Yourself
 If you want to interact with the assistant directly:
