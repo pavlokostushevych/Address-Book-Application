@@ -75,7 +75,7 @@ To run the GUI version:
 ```bash
 start_project
 ```
-To run the Console (CLI) version:
+To run the Console version:
 ```bash
 start_project_console
 ```
