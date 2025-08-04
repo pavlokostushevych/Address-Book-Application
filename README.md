@@ -46,14 +46,21 @@ This Personal Assistant Python application includes the following features:
 ---
 
 ## 💡 Project Overview
+This project was developed during an 8-day Agile sprint simulating a real-world software development environment. The student team followed professional workflows, applying Scrum methodology with clearly assigned roles and iterative progress.
 
-This project was developed during an **8-day Agile sprint** simulating a real-world software development environment. The student team followed professional workflows, including Scrum roles and regular collaboration with a technical mentor.
+We used:
 
-- **My role**:  
-  I chose the Scrum Master role, focusing on communication, organizing meetings, task management, and Trello usage.  
-  Additionally, I contributed to core features in `main.py`.  
-  I also worked on bugfixes after integrating the GUI (`gui.py`), which was written by the Team Lead.  
-  In my repository, you can find the reworked `setup.py` configuration and newly created entry points for convenient launching.
+🛠 Trello for task management (screenshots available in the [`photos/`](./photos))
+
+💬 Slack for team communication
+
+📞 Zoom, teams for daily stand-up meetings and sprint reviews
+
+My role:
+I chose the Scrum Master role, focusing on communication, organizing meetings, task tracking, and ensuring smooth collaboration.
+Additionally, I contributed to core features in main.py.
+I also worked on bugfixes after integrating the GUI (gui.py), which was developed by the Team Lead.
+In my repository, you’ll find a reworked setup.py and newly added entry_points to easily launch either the GUI or console version.
 
 ---
 ## Team Repository & My Contributions
