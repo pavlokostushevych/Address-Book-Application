@@ -1,3 +1,5 @@
+📄 Wersja polska poniżej – [Przejdź do wersji PL](#pl)
+
 # 🧠 Personal Assistant (Team Project)
 
 A console and GUI-based Personal Assistant app built in Python using [`prompt_toolkit`](https://github.com/prompt-toolkit/python-prompt-toolkit), [`rich`](https://github.com/Textualize/rich), and [`customtkinter`](https://github.com/TomSchimansky/CustomTkinter).  
@@ -157,3 +159,13 @@ To run the Console version:
 ```bash
 start_project_console
 ```
+
+## 📬 Contact
+
+If you have any questions, feel free to reach out:  
+
+- Email: pavlo.kostushevych@gmail.com  
+- LinkedIn: [linkedin.com/in/pavlo-kostushevych-ab364b376](https://www.linkedin.com/in/pavlo-kostushevych-ab364b376/)
+
+---
+## PL
