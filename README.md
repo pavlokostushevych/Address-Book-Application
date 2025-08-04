@@ -7,38 +7,6 @@ The project manages contacts, notes, and to-do lists via a modular architecture 
 
 ---
 
-## 💡 Project Overview
-
-This project was developed during an **8-day Agile sprint** simulating a real-world software development environment. The student team followed professional workflows, including Scrum roles and regular collaboration with a technical mentor.
-
-- **My role**:  
-  I chose the Scrum Master role, focusing on communication, organizing meetings, task management, and Trello usage.  
-  Additionally, I contributed to core features in `main.py`.  
-  I also worked on bugfixes after integrating the GUI (`gui.py`), which was written by the Team Lead.  
-  In my repository, you can find the reworked `setup.py` configuration and newly created entry points for convenient launching.
-
----
-## Team Repository & My Contributions
-
-The full team project repository is maintained by the Team Lead and can be found here: [Team Repository](https://github.com/Kunandiir/goit_project)  
-(My Student GitHub nickname: [rynikk21](https://github.com/rynikk21))
-
-You can track my individual commits and contributions within this team repository using my GitHub nickname.
-
----
-
-## 📂 Project Structure
-
-- [`goit_project/`](./goit_project) — main Python package with core modules:  
-  - [main.py](goit_project/goit_project/main.py) — program entry and core logic
-  - [notes.py](goit_project/goit_project/notes.py) — notes management module
-  - [gui.py](goit_project/goit_project/gui.py) — graphical user interface code
-  - [setup.py](goit_project/setup.py) — installation and packaging configuration
-
-- [`photos/`](./photos) — Photos documenting the project  
-
----
-
 ## 🧩 Implemented Features
 This Personal Assistant Python application includes the following features:
 
@@ -74,6 +42,38 @@ This Personal Assistant Python application includes the following features:
 
 🤖 Smart Command Suggestion
 ✨ Intelligent input analysis: the assistant can suggest the most relevant command based on user input (even if it's incorrect or incomplete).
+
+---
+
+## 💡 Project Overview
+
+This project was developed during an **8-day Agile sprint** simulating a real-world software development environment. The student team followed professional workflows, including Scrum roles and regular collaboration with a technical mentor.
+
+- **My role**:  
+  I chose the Scrum Master role, focusing on communication, organizing meetings, task management, and Trello usage.  
+  Additionally, I contributed to core features in `main.py`.  
+  I also worked on bugfixes after integrating the GUI (`gui.py`), which was written by the Team Lead.  
+  In my repository, you can find the reworked `setup.py` configuration and newly created entry points for convenient launching.
+
+---
+## Team Repository & My Contributions
+
+The full team project repository is maintained by the Team Lead and can be found here: [Team Repository](https://github.com/Kunandiir/goit_project)  
+(My Student GitHub nickname: [rynikk21](https://github.com/rynikk21))
+
+You can track my individual commits and contributions within this team repository using my GitHub nickname.
+
+---
+
+## 📂 Project Structure
+
+- [`goit_project/`](./goit_project) — main Python package with core modules:  
+  - [main.py](goit_project/goit_project/main.py) — program entry and core logic
+  - [notes.py](goit_project/goit_project/notes.py) — notes management module
+  - [gui.py](goit_project/goit_project/gui.py) — graphical user interface code
+  - [setup.py](goit_project/setup.py) — installation and packaging configuration
+
+- [`photos/`](./photos) — Photos documenting the project  
 
 ---
 
