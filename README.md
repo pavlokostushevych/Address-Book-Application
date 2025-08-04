@@ -92,7 +92,7 @@ This repository showcases the design and development of a Personal Assistant app
 📸 Visual Preview
 To quickly get a sense of how the application works, check out:
 
-[`photos/`](./photos) — includes screenshots of the GUI and CLI interfaces of the assistant, project management in action on our Trello board — showing how we organized and tracked tasks during development.
+[`photos/`](./photos) — includes screenshots of the GUI and CLI interfaces of the assistant, project management in action on our Trello board — showing how we organized and tracked tasks during development.  
 [`goit_project/`](./goit_project) — you can review the source code of the application.
 
 💻 Try It Yourself
