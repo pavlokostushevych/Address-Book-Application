@@ -30,10 +30,10 @@ You can track my individual commits and contributions within this team repositor
 ## 📂 Project Structure
 
 - [`goit_project/`](./goit_project) — main Python package with core modules:  
-  - main.py — program entry and core logic
-  - notes.py — notes management module
-  - gui.py — graphical user interface code
-  - __init__.py — package initializer
+  - [main.py](goit_project/goit_project/main.py) — program entry and core logic
+  - [notes.py](goit_project/goit_project/notes.py) — notes management module
+  - [gui.py](goit_project/goit_project/gui.py) — graphical user interface code
+  - [__init__.py](goit_project/goit_project/__init__.py) — package initializer
   - [setup.py](goit_project/setup.py) — installation and packaging configuration
 
 - [`photos/`](./photos) — Photos documenting the project  
