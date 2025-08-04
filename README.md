@@ -34,11 +34,9 @@ You can track my individual commits and contributions within this team repositor
   - notes.py — notes management module
   - gui.py — graphical user interface code
   - __init__.py — package initializer
-  - setup.py — installation and packaging configuration
+  - [setup.py](goit_project/setup.py) — installation and packaging configuration
 
 - [`photos/`](./photos) — Photos documenting the project  
-  - [Electronic Schematic (KiCad).png](photos/Electronic%20Schematic%20(KiCad).png) — schematic diagram  
-  - Photos of soldering and power-on process
 
 ---
 
