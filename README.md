@@ -261,10 +261,10 @@ Możesz śledzić moje indywidualne commity i wkład w tym repozytorium, korzyst
 ---
 
 ## 🎥 Prezentacja projektu i możliwe zastosowania
-To repozytorium prezentuje projektowanie i rozwój aplikacji „Personal Assistant” napisanej w Pythonie. Aplikację możesz poznać na dwa sposoby:
+To repozytorium prezentuje projektowanie i rozwój aplikacji „Personal Assistant” napisanej w Pythonie. Aplikację możesz poznać na dwa sposoby:  
 
-📸 Podgląd wizualny
-Aby szybko zrozumieć, jak działa aplikacja, sprawdź:
+📸 Podgląd wizualny  
+Aby szybko zrozumieć, jak działa aplikacja, sprawdź:  
 
 [`photos/`](./photos) — zawiera zrzuty ekranu GUI i interfejsu CLI oraz widok zarządzania projektem na tablicy Trello, ilustrujący sposób organizacji i śledzenia zadań 
 [`goit_project/`](./goit_project) — możesz zapoznać się z kodem źródłowym aplikacji
